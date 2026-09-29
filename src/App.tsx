@@ -48,7 +48,7 @@ export default function App() {
     <>
       <RouteScrollHandler />
       <Navbar />
-      <main className="min-h-screen pt-24"><PageContent path={path} /></main>
+      <main className="min-h-screen pt-24 bg-background transition-colors duration-300"><PageContent path={path} /></main>
       <Footer />
       <CartSidebar />
     </>
