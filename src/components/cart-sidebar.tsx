@@ -59,7 +59,7 @@ export default function CartSidebar() {
               animate={{ opacity: 1 }}
               exit={{ opacity: 0 }}
               onClick={() => setIsOpen(false)}
-              className="fixed inset-0 bg-black/50 backdrop-blur-[2px] z-40 transition-all"
+              className="fixed inset-0 bg-black/50 backdrop-blur-[3px] z-40 transition-all"
             />
 
             {/* Sidebar Content */}
