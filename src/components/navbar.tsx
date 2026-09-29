@@ -32,7 +32,7 @@ export default function Navbar() {
         <motion.div
           initial={{ opacity: 0, y: -20 }}
           animate={{ opacity: 1, y: 0 }}
-          transition={{ duration: 0.5 }}
+          transition={{ duration: 0.45 }}
           className="border border-border-light px-6 md:px-8 py-3 md:py-1.5 bg-surface-light rounded-full shadow-lg"
         >
           <div className="flex items-center justify-between">
