@@ -80,7 +80,7 @@ export default function FoodCard({
       {/* Food Information */}
       <div className="p-4 flex flex-col flex-grow">
         {/* Food Name */}
-        <h3 className="font-bold text-lg mb-4 text-gray-900 group-hover:text-primary transition-colors line-clamp-2">
+        <h3 className="font-bold text-lg mb-4 text-gray-900 group-hover:text-primary transition-colors line-clamp-2 leading-snug">
           {title}
         </h3>
 
