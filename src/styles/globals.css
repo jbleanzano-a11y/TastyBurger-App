@@ -142,7 +142,7 @@
 .font-heading { letter-spacing: -0.01em; }
 
 .font-heading { font-family: 'Playfair Display', Georgia, serif; }
-.font-body { font-family: 'DM Sans', Arial, sans-serif; }
+.font-body { letter-spacing: 0.005em; font-family: 'DM Sans', Arial, sans-serif; }
 .font-brand { font-family: 'Pacifico', cursive; }
 .font-accent { font-family: 'Playfair Display', Georgia, serif; }
 
