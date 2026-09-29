@@ -28,7 +28,7 @@ export default function Navbar() {
 
   return (
     <nav className="fixed top-0 left-0 right-0 z-50 pt-4 px-4 md:pt-6 md:px-6">
-      <div className="app-container">
+      <div className="app-container transition-all duration-300">
         <motion.div
           initial={{ opacity: 0, y: -20 }}
           animate={{ opacity: 1, y: 0 }}
