@@ -25,7 +25,7 @@ export default function PageTransition({ children }: { children: React.ReactNode
           <motion.div
             animate={{ rotate: 360 }}
             transition={{ duration: 1, repeat: Number.POSITIVE_INFINITY, ease: "linear" }}
-            className="w-12 h-12 border-4 border-primary border-t-transparent rounded-full"
+            className="w-12 h-12 md:w-14 md:h-14 border-4 border-primary border-t-transparent rounded-full"
           />
         </motion.div>
       )}
