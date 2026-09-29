@@ -26,7 +26,7 @@ export default function SectionHeader({
       className={`${centered ? "text-center" : "text-left"} ${className}`}
     >
       {subtitle && (
-        <p className="text-sm font-semibold text-primary uppercase tracking-wider mb-2">
+        <p className="text-sm font-semibold text-primary uppercase tracking-wider mb-3">
           {subtitle}
         </p>
       )}
