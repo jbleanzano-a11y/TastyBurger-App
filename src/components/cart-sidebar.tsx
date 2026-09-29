@@ -34,7 +34,7 @@ export default function CartSidebar() {
         whileHover={{ scale: 1.08, rotate: 2 }}
         whileTap={{ scale: 0.95 }}
         onClick={() => setIsOpen(true)}
-        className="fixed bottom-8 right-8 z-50 p-4 rounded-full shadow-2xl bg-sidebar-primary text-background hover:bg-primary-dark transition-all duration-300 flex items-center justify-center group"
+        className="fixed bottom-8 right-8 z-50 p-4 rounded-full shadow-2xl bg-sidebar-primary text-background hover:bg-primary-dark transition-all duration-200 flex items-center justify-center group"
       >
         <ShoppingCart className="h-6 w-6 group-hover:rotate-6 transition-transform" />
 
