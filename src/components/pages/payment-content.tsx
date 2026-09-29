@@ -72,7 +72,7 @@ export default function PaymentContent() {
     <div className="min-h-screen bg-background py-16 md:py-20">
       <div className="app-container">
         {/* Header */}
-        <motion.div initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} className="mb-12">
+        <motion.div initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} className="mb-10 md:mb-12">
           <Link
             href="/checkout"
             className="inline-flex items-center gap-2 text-primary hover:text-primary-dark mb-6"
