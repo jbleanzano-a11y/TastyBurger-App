@@ -68,7 +68,7 @@ export default function OrderPreparationContent() {
   }
 
   return (
-    <div className="min-h-screen bg-background py-20">
+    <div className="min-h-screen bg-background py-16 md:py-20">
       <div className="app-container">
         <motion.div initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} className="max-w-4xl mx-auto">
           {/* Success Message */}
