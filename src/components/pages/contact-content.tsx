@@ -146,7 +146,7 @@ export default function ContactContent() {
                 </div>
                 <div>
                   <input
-                    type="email"
+                    type="email" autoComplete="email"
                     name="email"
                     value={formData.email}
                     onChange={handleChange}
