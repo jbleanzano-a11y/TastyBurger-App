@@ -149,7 +149,7 @@ export default function MenuContent() {
             <div className="relative max-w-2xl mx-auto">
               <Search className="absolute left-4 top-1/2 transform -translate-y-1/2 text-gray-600 w-5 h-5" />
 
-              <input
+              <input aria-label="Search menu items"
                 type="text"
                 placeholder="Search menu items..."
                 value={searchQuery}
