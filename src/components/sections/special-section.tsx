@@ -30,7 +30,7 @@ export default function SpecialSection() {
             viewport={{ once: true }}
             className="relative h-[500px] lg:h-[600px] w-full"
           >
-            <div className="relative w-full h-full rounded-3xl overflow-hidden shadow-2xl group">
+            <div className="relative w-full h-full rounded-3xl overflow-hidden shadow-2xl group transition-shadow duration-300">
               <Image
                 src="/special-grilled-chicken.jpg"
                 alt="Special Burger"
