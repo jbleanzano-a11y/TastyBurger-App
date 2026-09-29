@@ -62,7 +62,7 @@ export default function GallerySection() {
 
   if (loading) {
     return (
-      <section className="py-24 relative overflow-hidden">
+      <section className="py-24 relative overflow-hidden scroll-mt-24">
         <div className="absolute inset-0">
           <div className="absolute inset-0 overflow-hidden rounded-b-[80px]">
             <Image
