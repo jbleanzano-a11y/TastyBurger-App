@@ -1,0 +1,52 @@
+{
+  "items": [
+    {
+      "id": "gallery-1",
+      "title": "Classic Burger",
+      "image": "/delicious-flame-grilled-burger-with-fresh-ingredie.jpg",
+      "description": "Our signature flame-grilled burger with fresh ingredients and special sauce",
+      "category": "burgers",
+      "price": 299
+    },
+    {
+      "id": "gallery-2",
+      "title": "Cheeseburger Delight",
+      "image": "/classic-cheeseburger-with-lettuce-tomato.webp",
+      "description": "Melted cheese with crispy bacon and fresh vegetables",
+      "category": "burgers",
+      "price": 249
+    },
+    {
+      "id": "gallery-3",
+      "title": "Gourmet Burger",
+      "image": "/gourmet-burger-2.jpg",
+      "description": "Premium beef patty with truffle aioli and caramelized onions",
+      "category": "burgers",
+      "price": 399
+    },
+    {
+      "id": "gallery-4",
+      "title": "Double Stack",
+      "image": "/Double-Stack.jpg",
+      "description": "Two juicy patties with double cheese and special toppings",
+      "category": "burgers",
+      "price": 349
+    },
+    {
+      "id": "gallery-5",
+      "title": "Spicy Burger",
+      "image": "/spicy-burger.jpg",
+      "description": "Jalapeños, pepper jack cheese, and chipotle mayo",
+      "category": "burgers",
+      "price": 279
+    },
+    {
+      "id": "gallery-6",
+      "title": "Veggie Burger",
+      "image": "/Veggie Burger.jpg",
+      "description": "Plant-based patty with fresh vegetables and vegan mayo",
+      "category": "burgers",
+      "price": 259
+    }
+  ]
+}

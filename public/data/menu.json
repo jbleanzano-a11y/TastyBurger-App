@@ -1,0 +1,181 @@
+{
+  "categories": [
+    {
+      "id": "burgers",
+      "name": "Burgers",
+      "icon": "Flame"
+    },
+    {
+      "id": "starters",
+      "name": "Starters",
+      "icon": "Utensils"
+    },
+    {
+      "id": "drinks",
+      "name": "Drinks",
+      "icon": "Droplet"
+    }
+  ],
+  "items": [
+    {
+      "id": "burger-1",
+      "name": "The Ultimate Burger",
+      "category": "burgers",
+      "price": 349,
+      "image": "/premium-burger.jpg",
+      "description": "Our signature burger with premium beef, aged cheddar, caramelized onions, and special sauce",
+      "rating": 4.8,
+      "reviews": 220
+    },
+    {
+      "id": "burger-2",
+      "name": "Spicy Inferno",
+      "category": "burgers",
+      "price": 329,
+      "image": "/spicy-burger.jpg",
+      "description": "A fiery creation with ghost pepper mayo, jalape\u00f1os, crispy bacon, and pepper jack cheese",
+      "rating": 4.7,
+      "reviews": 180
+    },
+    {
+      "id": "burger-3",
+      "name": "Truffle Delight",
+      "category": "burgers",
+      "price": 349,
+      "image": "/truffle-burger.jpg",
+      "description": "Luxurious burger with truffle aioli, mushrooms, Swiss cheese, and caramelized garlic",
+      "rating": 4.9,
+      "reviews": 140
+    },
+    {
+      "id": "burger-4",
+      "name": "Classic Cheeseburger",
+      "category": "burgers",
+      "price": 299,
+      "image": "/classic-cheeseburger-with-lettuce-tomato.jpg",
+      "description": "Timeless favorite with melted American cheese, pickles, onions, and our signature sauce",
+      "rating": 4.5,
+      "reviews": 200
+    },
+    {
+      "id": "burger-5",
+      "name": "Bacon Bliss",
+      "category": "burgers",
+      "price": 319,
+      "image": "/bacon-burger.jpg",
+      "description": "Crispy bacon, cheddar cheese, bacon jam, and smoky mayo on a toasted bun",
+      "rating": 4.6,
+      "reviews": 170
+    },
+    {
+      "id": "burger-6",
+      "name": "Mushroom Magic",
+      "category": "burgers",
+      "price": 329,
+      "image": "/mushroom-burger.jpg",
+      "description": "Saut\u00e9ed mushrooms, caramelized onions, Swiss cheese, and garlic aioli on a brioche bun",
+      "rating": 4.7,
+      "reviews": 130
+    },
+    {
+      "id": "burger-7",
+      "name": "BBQ Rancher",
+      "category": "burgers",
+      "price": 339,
+      "image": "/bbq-rancher-burger.jpg",
+      "description": "Grilled beef patty, cheddar, onion rings, smoky BBQ sauce, and ranch dressing",
+      "rating": 4.6,
+      "reviews": 150
+    },
+    {
+      "id": "burger-8",
+      "name": "Veggie Supreme",
+      "category": "burgers",
+      "price": 249,
+      "image": "/veggie-burger.jpg",
+      "description": "Grilled veggie patty, avocado, lettuce, tomato, and vegan mayo on whole grain bun",
+      "rating": 4.5,
+      "reviews": 120
+    },
+    {
+      "id": "starter-1",
+      "name": "French Fries",
+      "category": "starters",
+      "price": 99,
+      "image": "/crispy-french-fries.jpg",
+      "description": "Crispy golden fries with sea salt",
+      "rating": 4.5,
+      "reviews": 456
+    },
+    {
+      "id": "starter-2",
+      "name": "Onion Rings",
+      "category": "starters",
+      "price": 129,
+      "image": "/onion-rings.jpg",
+      "description": "Crispy battered onion rings with ranch dip",
+      "rating": 4.6,
+      "reviews": 234
+    },
+    {
+      "id": "starter-3",
+      "name": "Chicken Wings",
+      "category": "starters",
+      "price": 199,
+      "image": "/ChickenWings.webp",
+      "description": "Spicy buffalo wings with blue cheese dip",
+      "rating": 4.7,
+      "reviews": 189
+    },
+    {
+      "id": "starter-4",
+      "name": "Mozzarella Sticks",
+      "category": "starters",
+      "price": 149,
+      "image": "/MozzarellaSticks.jpg",
+      "description": "Golden fried mozzarella with marinara sauce",
+      "rating": 4.6,
+      "reviews": 267
+    },
+    {
+      "id": "drink-1",
+      "name": "Cold Soda",
+      "category": "drinks",
+      "price": 49,
+      "image": "/cold-soda.jpg",
+      "description": "Refreshing cold soda with ice",
+      "rating": 4.4,
+      "reviews": 123
+    },
+    {
+      "id": "drink-2",
+      "name": "Fresh Juice",
+      "category": "drinks",
+      "price": 79,
+      "image": "/fresh-juice.jpg",
+      "description": "Freshly squeezed orange or apple juice",
+      "rating": 4.6,
+      "reviews": 156
+    },
+    {
+      "id": "drink-3",
+      "name": "Milkshake",
+      "category": "drinks",
+      "price": 99,
+      "image": "/Milkshake.webp",
+      "description": "Creamy vanilla, chocolate, or strawberry milkshake",
+      "rating": 4.7,
+      "reviews": 234
+    },
+    {
+      "id": "drink-4",
+      "name": "Iced Coffee",
+      "category": "drinks",
+      "price": 89,
+      "image": "/iced-coffee.jpg",
+      "description": "Cold brew coffee with ice and cream",
+      "rating": 4.5,
+      "reviews": 189
+    }
+  ]
+}
