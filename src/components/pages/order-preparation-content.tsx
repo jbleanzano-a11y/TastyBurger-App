@@ -72,7 +72,7 @@ export default function OrderPreparationContent() {
       <div className="app-container">
         <motion.div initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} className="max-w-4xl mx-auto">
           {/* Success Message */}
-          <div className="text-center mb-12">
+          <div className="text-center mb-10 md:mb-12">
             <motion.div
               initial={{ scale: 0 }}
               animate={{ scale: 1 }}
