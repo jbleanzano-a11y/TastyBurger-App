@@ -30,7 +30,7 @@ const services = [
 
 export default function ServicesSection() {
   return (
-    <section className="py-24 relative overflow-hidden">
+    <section className="py-20 md:py-24 relative overflow-hidden">
       <div className="absolute inset-0">
         <div className="absolute inset-0 overflow-hidden rounded-t-[40px]">
           <Image
