@@ -111,7 +111,7 @@ export default function CheckoutContent() {
   {/* EMPTY CART */}
   if (items.length === 0) {
     return (
-      <div className="min-h-screen bg-background py-20">
+      <div className="min-h-screen bg-background py-16 md:py-20">
         <div className="app-container">
           <motion.div
             initial={{ opacity: 0, y: 20 }}
