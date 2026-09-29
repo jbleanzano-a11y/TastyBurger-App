@@ -304,7 +304,7 @@ export default function AboutContent() {
 
   return (
     <div className="min-h-screen bg-background">
-      <section className="py-20 bg-gradient-to-r from-primary/10 to-accent/10 relative overflow-hidden">
+      <section className="py-16 md:py-20 bg-gradient-to-r from-primary/10 to-accent/10 relative overflow-hidden">
         <div className="absolute inset-0 overflow-hidden">
           <motion.div
             animate={{ y: [0, 20, 0] }}
