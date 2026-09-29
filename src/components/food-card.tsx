@@ -44,7 +44,7 @@ export default function FoodCard({
           src={image || "/placeholder.svg?height=300&width=300"}
           alt={title}
           fill
-          className="object-cover group-hover:scale-125 transition-transform duration-500"
+          className="object-cover group-hover:scale-125 transition-transform duration-500 will-change-transform"
         />
 
         {/* Favorite Button */}
