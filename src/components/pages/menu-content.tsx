@@ -113,7 +113,7 @@ export default function MenuContent() {
     <div className="min-h-screen bg-background">
 
       {/* HERO SECTION */}
-      <section className="py-20 sm:py-24 bg-gradient-to-r from-primary/10 to-accent/10">
+      <section className="py-16 sm:py-20 md:py-24 bg-gradient-to-r from-primary/10 to-accent/10">
         <div className="app-container">
           <motion.div
             initial={{ opacity: 0, y: 20 }}
