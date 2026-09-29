@@ -52,7 +52,7 @@ export default function FeaturedSection() {
   const router = useRouter();
 
   return (
-    <section className="py-24 relative overflow-hidden">
+    <section className="py-24 relative overflow-hidden scroll-mt-24">
       {/* Background */}
       <div className="absolute inset-0">
         <div className="absolute inset-0 overflow-hidden rounded-[40px]">
