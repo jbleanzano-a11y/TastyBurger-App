@@ -55,7 +55,7 @@ export default function ContactContent() {
     <div className="min-h-screen bg-background">
       {/* Hero Section with Background Image */}
       <section
-        className="py-16 bg-cover bg-center bg-no-repeat relative"
+        className="py-14 md:py-16 bg-cover bg-center bg-no-repeat relative"
         style={{
           backgroundImage: "url('/restaurant-contact-background.jpg')",
         }}
