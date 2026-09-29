@@ -35,7 +35,7 @@ export default function FoodCard({
       whileInView={{ opacity: 1, y: 0 }}
       transition={{ duration: 0.5 }}
       viewport={{ once: true }}
-      whileHover={{ y: -8 }}
+      whileHover={{ y: -6 }}
       className="bg-surface rounded-xl overflow-hidden shadow-md hover:shadow-2xl transition-shadow duration-300 group h-full flex flex-col hover:-translate-y-1
     >
       {/* Food Image */}
