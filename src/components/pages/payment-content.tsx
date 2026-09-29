@@ -69,7 +69,7 @@ export default function PaymentContent() {
   }
 
   return (
-    <div className="min-h-screen bg-background py-20">
+    <div className="min-h-screen bg-background py-16 md:py-20">
       <div className="app-container">
         {/* Header */}
         <motion.div initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} className="mb-12">
